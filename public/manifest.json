@@ -1,0 +1,20 @@
+{
+  "short_name": "Pastel To-Do",
+  "name": "Pastel To-Do List",
+  "icons": [
+    {
+      "src": "todolist-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "todolist-icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffe0ec",
+  "background_color": "#ffffff"
+}
