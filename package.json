@@ -21,7 +21,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "homepage": "https://todolist.github.io/todolistApp"
+    "homepage": "https://todolist.github.io/ToDoList-App"
   },
   "eslintConfig": {
     "extends": [
