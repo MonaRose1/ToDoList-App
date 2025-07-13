@@ -225,6 +225,11 @@
   background: #e2f0cb;
 }
 
+/* Add small padding to all elements inside task-card */
+.task-card > * {
+  padding: 4px 6px;
+}
+
 /* Responsive styles for mobile devices */
 @media (max-width: 600px) {
   .pastel-app-bg {
